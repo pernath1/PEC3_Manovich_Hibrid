@@ -8,7 +8,7 @@ Autor: Jose González Aguilar
 
 Fecha: 16/05/2023
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://www.wannapik.com/media/W1siZiIsIjIwMTYvMDgvMjQvN2RoMDl1M3YyM18xM2Rtc3A0dW10X3ZjMTAyNTY4LnBuZyJdXQ/34242c218aba4a4f/13dmsp4umt_vc102568.png)) 
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
 ## Planteamiento
