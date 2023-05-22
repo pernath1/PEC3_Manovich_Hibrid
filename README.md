@@ -8,7 +8,7 @@ Autor: Jose González Aguilar
 
 Fecha: 16/05/2023
 
-![Cultura Digital](https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2020/11/26/5fbfbff361178.r_d.2750-2063-1724.jpeg) 
+![Cultura Digital](https://p1.pxfuel.com/preview/817/193/279/eye-information-technology-digital.jpg) 
 
 
 ## Planteamiento
