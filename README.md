@@ -22,7 +22,7 @@ Por otro lado tenemos a una red social que ha no ha parado de evolucionar en los
 
 Mi intención es mostrar la hibridación de Manovich a traves de ejemplos lo suficientemente representativos y claro como para presentar la evolución en el software. Además mi intención es tocar esta evolución en todos los planos posibles, no sólo me quiero centrar en e la experiencia de usuario, aún a riesgo de equivocarme, me interesa adentrarme en los engranajes del software para poder apreciar hasta que punto se produce la hibridación. Soy consciente que ahora mismo puede sonar algo confuso, pero confío en que conformre nos adentrémos los análisis se pueda apreciar de manera clara a que me refiero cuando digo "tocar esta evolción en todos los planos posibles". 
 
-Sin más dilaicón emepezamos.
+Sin más dilación, emepezamos.
 
 
 ## Re-descubriendo la hibridacion: Amazon
