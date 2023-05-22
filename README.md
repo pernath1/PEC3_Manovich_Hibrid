@@ -15,6 +15,7 @@ Fecha: 16/05/2023
 
 Para esta práctica he escogido el portal de ecommerce <b>Amazon</b> y la red social de <b>Facebook</b>, creo que ambos casos cumplen con creces con las características de la hibridación de Manovich. 
 Por un lado tenemos a Amazon que es un portal de ecommerce que ha sabido implementar toda una gama de servicios que permiten al usuario interactuar de manera directa con el vendedor  a través de diferentes canales.
+
 Por otro lado tenemos a una red social que ha no ha parado de evolucionar en los últimos años y que brinda a sus usuarios la posiblidad de ir más allá en el plano de la comunicación entre ellos
 
 
