@@ -8,7 +8,7 @@ Autor: Jose González Aguilar
 
 Fecha: 16/05/2023
 
-![Cultura Digital](https://media.gq.com.mx/photos/5cbf8c609277d8857be23c04/master/pass/GettyImages-956550532.jpg) 
+![Cultura Digital](https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2020/11/26/5fbfbff361178.r_d.2750-2063-1724.jpeg) 
 
 
 ## Planteamiento
