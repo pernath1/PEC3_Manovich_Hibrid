@@ -34,6 +34,9 @@ Si nos paramos a observar el portal de ecommerce con las gafas de Manovich, podr
 ### <span style="color:orange">Amazon: Interfaz de usuario</span>
 Uno de los aspectos más destacables de <b>Amazon</b> es sin duda su interfaz de usuario y el amplio abanico de posibilidades que brinda para interactuar, bien sea con la plataforma, o con los diferentes proveedores que venden a través de ella.
 
+El usuario dispone de un potente motor de búsqueda que nos permite navegar por las diferentes secciones y afinar los resultados aplicando disintos filtros. Todo ello se puede llevar a cabo gracias a consultas recurrentes a bases de datos y a la indexación de todo el stock, tanto el del propio Amazon, como el de los diferentes vendedores que utilizan la plataforma para ofertar su productos.
+
+
 
 
 ## Re-descubriendo la hibridacion: Facebook
