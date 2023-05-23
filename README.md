@@ -49,7 +49,11 @@ Una vez el usuario selecciona un producto, accedería a lo que llamariamos <b>fi
 Fuente escribodeviajes.com [https://escribodeviajes.com/wp-content/uploads/2022/02/1-regalos-viajes-14-de-febrero.jpg]
 
 
-También se puede crear y gestionar una listas de deseos, lo que permite guardar productos para futuras compras o compartir tus listas con otros usuarios.
+Se puede crear y gestionar una listas de deseos, lo que permite guardar productos para futuras compras o compartir tus listas con otros usuarios.
+
+También debemos tener en cuenta que Amazon almacena nuestra ubicación, con lo cual, ofrece una serie de servicios, como son la "compra en un solo clic", lo que agiliza mucho el proceso de compra.
+
+Otra funcionalidad de Amazon es el uso que hace de nuestro historial de comprar y de navegación, para proponernos una serie de productos personalizados basándose en nuestros gustos. Es como si tuviera una red interna de admobs (anuncios pagados de google) para su propios usuarios. Por supuesto dichos historiales se pueden administrar por parte del usuario, ya sea para acceder a productos comprados/buscados anteriormente o borrar/editar información.
 
 
 
