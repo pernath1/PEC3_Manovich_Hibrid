@@ -31,7 +31,7 @@ Sin más dilación, emepezamos.
 Debido a la gran evolución que ha tenido Amazon, podríamos decir que es una remediación de si mismo. Lo que empezó siendo una remediación de una tienda de libros se ha acabdo convirtiendo en todo un monstruo de la hibridación.
 Si nos paramos a observar el portal de ecommerce con las gafas de Manovich, podremos apreciar como la hibridación se da en <b>Amazon</b> de manera clara. No pretendo desgranar todos los casos que se produce en la plataforma, pues considero que sería una labor titánica que excedería los límites de esta práctica, me limitaré a señalar casos concretos para poder hacer patente dicha evolución e intentaremos darle una visión personal, adueñándonos temporlamente del término de Manovich, para usarlo en un contexto algo más alejado de los límites convencionales en los que se suele emplear.
 
-### Amazon: Interfaz de usuario
+### Interfaz de usuario
 Uno de los aspectos más destacables de <b>Amazon</b> es sin duda su interfaz de usuario y el amplio abanico de posibilidades que brinda para interactuar, bien sea con la plataforma, o con los diferentes proveedores que venden a través de ella.
 
 El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite navegar por las diferentes secciones y afinar los resultados aplicando disintos filtros. Todo ello se puede llevar a cabo gracias a consultas recurrentes a bases de datos y a la indexación de todo el stock, tanto el del propio Amazon, como el de los diferentes vendedores que utilizan la plataforma para ofertar su productos. 
