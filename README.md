@@ -27,7 +27,8 @@ Sin más dilación, emepezamos.
 
 ## Re-descubriendo la hibridacion: Amazon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Debido a la gran evolución que ha tenido Amazon, podríamos decir que es una remediación de si mismo. Lo que empezó siendo una remediación de una tienda de libros se ha acabdo convirtiendo en todo un monstruo de la hibridación.
+Si nos paramos a observar el portal de ecommerce con las gafas de Manovich, podremos apreciar como la hibridación se da en <b>Amazon</b> de manera clara. No pretendo desgranar todos los casos que se produce en la plataforma, pues considero que sería una labor titánica que excedería los límites de esta práctica, me limitaré a señalar casos concretos para poder hacer patente dicha evolución e intentaremos darle una visión personal, adueñándonos temporlamente del término de Manovich, para usarlo en un contexto algo más alejado de los límites convencionales en los que se suele emplear.
 
 
 
