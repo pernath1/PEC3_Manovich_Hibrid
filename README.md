@@ -36,7 +36,7 @@ Uno de los aspectos más destacables de <b>Amazon</b> es sin duda su interfaz de
 
 El usuario dispone de un potente motor de búsqueda que nos permite navegar por las diferentes secciones y afinar los resultados aplicando disintos filtros. Todo ello se puede llevar a cabo gracias a consultas recurrentes a bases de datos y a la indexación de todo el stock, tanto el del propio Amazon, como el de los diferentes vendedores que utilizan la plataforma para ofertar su productos.
 
-(https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png)
+!(https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png)
 
 
 
