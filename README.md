@@ -23,13 +23,15 @@ Por otro lado tenemos a una red social que no ha parado de evolucionar en los ú
 
 Mi intención es mostrar la hibridación de <b>Manovich</b> a traves de ejemplos lo suficientemente representativos y claros como para presentar la evolución en el software. Además mi intención es analizar esta evolución en todos los planos posibles, no sólo me quiero centrar en e la experiencia de usuario, aún a riesgo de equivocarme, me interesa adentrarme en los engranajes del software para poder apreciar hasta que punto se produce la hibridación. Soy consciente que ahora mismo puede sonar algo confuso, pero confío en que conforme nos adentrémos en el análisis, se pueda discernir de manera clara a que me refiero cuando digo "analizar esta evolción en todos los planos posibles". 
 
+Considero que para llevar más allá el concepto de hibridación en el software y puesto que atañe de manera global a todos los casos que se puedan analizar, me reservaré para el apartado de conclusiones abordar el concepto de hibridación en un plano algo diferente.
+
 Sin más dilación, emepezamos.
 
 
 ## Re-descubriendo la hibridacion: Amazon
 
 Debido a la gran evolución que ha tenido Amazon, podríamos decir que es una remediación de si mismo. Lo que empezó siendo una remediación de una tienda de libros se ha acabdo convirtiendo en todo un monstruo de la hibridación.
-Si nos paramos a observar el portal de ecommerce con las gafas de Manovich, podremos apreciar como la hibridación se da en <b>Amazon</b> de manera clara. No pretendo desgranar todos los casos que se produce en la plataforma, pues considero que sería una labor titánica que excedería los límites de esta práctica, me limitaré a señalar casos concretos para poder hacer patente dicha evolución e intentaremos darle una visión personal, adueñándonos temporlamente del término de Manovich, para usarlo en un contexto algo más alejado de los límites convencionales en los que se suele emplear.
+Si nos paramos a observar el portal de ecommerce con las gafas de Manovich, podremos apreciar como la hibridación se da en <b>Amazon</b> de manera clara. No pretendo desgranar todos los casos que se produce en la plataforma, pues considero que sería una labor titánica que excedería los límites de esta práctica, me limitaré a señalar casos concretos en la interfaz de usuario para poder hacer patente dicha evolución.
 
 ### Interfaz de usuario
 Uno de los aspectos más destacables de <b>Amazon</b> es sin duda su interfaz de usuario y el amplio abanico de posibilidades que brinda para interactuar, bien sea con la plataforma, o con los diferentes proveedores que venden a través de ella.
