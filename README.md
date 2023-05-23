@@ -42,7 +42,7 @@ El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite naveg
 Fuente yasehacerlo.com [https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png]
 
 
-Una vez el usuaria selecciona un producto, accedería a lo que llamariamos <b>ficha del producto</b>. Aquí nos encontramos con la información detallada del producto, eso incluye fotografías en alta resolución y en ocasiones animaciones 3D o vídeos de alta resolución.
+Una vez el usuario selecciona un producto, accedería a lo que llamariamos <b>ficha del producto</b>. Aquí nos encontramos con la información detallada del producto, eso incluye fotografías en alta resolución y en ocasiones animaciones 3D o vídeos de alta resolución.
 
 
 
