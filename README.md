@@ -55,6 +55,9 @@ También debemos tener en cuenta que Amazon almacena nuestra ubicación, con lo 
 
 Otra funcionalidad de Amazon es el uso que hace de nuestro historial de comprar y de navegación, para proponernos una serie de productos personalizados basándose en nuestros gustos. Es como si tuviera una red interna de admobs (anuncios pagados de google) para su propios usuarios. Por supuesto dichos historiales se pueden administrar por parte del usuario, ya sea para acceder a productos comprados/buscados anteriormente o borrar/editar información.
 
+![Cultura Digital]) (https://www.vichaunter.org/wp-content/uploads/desactivar-historial-amazon.jpg)
+
+Fuente vichaunter.org [https://www.vichaunter.org/wp-content/uploads/desactivar-historial-amazon.jpg]
 
 
 
