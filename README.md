@@ -10,6 +10,7 @@ Fecha: 16/05/2023
 
 ![Cultura Digital](https://p1.pxfuel.com/preview/817/193/279/eye-information-technology-digital.jpg) 
 
+Fuente p1.pxfuel.com: [https://p1.pxfuel.com/preview/817/193/279/eye-information-technology-digital.jpg](https://p1.pxfuel.com/preview/817/193/279/eye-information-technology-digital.jpg)
 
 ## Planteamiento
 
