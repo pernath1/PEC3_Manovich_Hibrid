@@ -49,6 +49,9 @@ Una vez el usuario selecciona un producto, accedería a lo que llamariamos <b>fi
 Fuente escribodeviajes.com [https://escribodeviajes.com/wp-content/uploads/2022/02/1-regalos-viajes-14-de-febrero.jpg]
 
 
+También se puede crear y gestionar una listas de deseos, lo que permite guardar productos para futuras compras o compartir tus listas con otros usuarios.
+
+
 
 
 ## Re-descubriendo la hibridacion: Facebook
