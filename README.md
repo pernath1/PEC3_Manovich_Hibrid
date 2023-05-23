@@ -34,12 +34,16 @@ Si nos paramos a observar el portal de ecommerce con las gafas de Manovich, podr
 ### Amazon: Interfaz de usuario
 Uno de los aspectos más destacables de <b>Amazon</b> es sin duda su interfaz de usuario y el amplio abanico de posibilidades que brinda para interactuar, bien sea con la plataforma, o con los diferentes proveedores que venden a través de ella.
 
-El usuario dispone de un potente motor de búsqueda que nos permite navegar por las diferentes secciones y afinar los resultados aplicando disintos filtros. Todo ello se puede llevar a cabo gracias a consultas recurrentes a bases de datos y a la indexación de todo el stock, tanto el del propio Amazon, como el de los diferentes vendedores que utilizan la plataforma para ofertar su productos.
+El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite navegar por las diferentes secciones y afinar los resultados aplicando disintos filtros. Todo ello se puede llevar a cabo gracias a consultas recurrentes a bases de datos y a la indexación de todo el stock, tanto el del propio Amazon, como el de los diferentes vendedores que utilizan la plataforma para ofertar su productos.
 
 
 ![Cultura Digital](https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png)
 
 Fuente yasehacerlo.com [https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png]
+
+
+Una vez el usuaria selecciona un producto, accedería a lo que llamariamos <b>ficha del producto</b>. Aquí nos encontramos con la información detallada del producto, eso incluye fotografías en alta resolución y en ocasiones animaciones 3D o vídeos de alta resolución.
+
 
 
 
