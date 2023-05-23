@@ -44,6 +44,10 @@ Fuente yasehacerlo.com [https://yasehacerlo.com/wp-content/uploads/2016/05/busca
 
 Una vez el usuario selecciona un producto, accedería a lo que llamariamos <b>ficha del producto</b>. Aquí nos encontramos con la información detallada del producto, eso incluye fotografías en alta resolución y en ocasiones animaciones 3D o vídeos de alta resolución.
 
+![Cultura Digital](https://escribodeviajes.com/wp-content/uploads/2022/02/1-regalos-viajes-14-de-febrero.jpg)
+
+Fuente escribodeviajes.com [https://escribodeviajes.com/wp-content/uploads/2022/02/1-regalos-viajes-14-de-febrero.jpg]
+
 
 
 
