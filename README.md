@@ -77,7 +77,7 @@ Fuente thepowermba.com [https://www.thepowermba.com/es/wp-content/uploads/2022/1
 
 En el proceso de evolución
 
-
+## Re-descubriendo la hibridacion: Una vuelta de tuerca
 
 ### Referencias y Bibliografía
 
