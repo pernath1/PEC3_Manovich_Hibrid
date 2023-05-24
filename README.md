@@ -40,7 +40,7 @@ El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite naveg
 
 
 ![Cultura Digital](https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png)
-
+<br>
 Fuente yasehacerlo.com [https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png]
 
 
