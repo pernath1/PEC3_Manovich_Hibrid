@@ -123,7 +123,7 @@ Amazon EC2. Ruby es conocido por su enfoque en la simplicidad y la productividad
 
 Fuente chat.openai.com
 
-Como se puede apreciar en la respuesta de chatGPT, los lenguajes empleados en la plataformade Amazon son muchos y es dificil no pensar en hibridación. Por supuesto faltaría el tema de conexión con base de datos y como se extrae la información mediante sentencias SQL, pero creo que la idea se ha entendido y no es necesario analizar al detalle el desarrollo del portal.
+Como se puede apreciar en la respuesta de chatGPT, los lenguajes empleados en la plataforma de Amazon son muchos y es difícil no pensar en hibridación. Por supuesto faltaría el tema de conexión con base de datos y como se extrae la información mediante sentencias SQL, pero creo que la idea se ha entendido y no es necesario analizar al detalle el desarrollo del portal.
 
 
 ### Referencias y Bibliografía
