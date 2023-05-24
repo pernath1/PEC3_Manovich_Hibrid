@@ -85,6 +85,9 @@ Fuente inboundcycle.com [https://www.inboundcycle.com/hs-fs/hubfs/Facebook-Messe
 ### Facebook Marketplace
 Es una plataforma en la que los usuarios pueden comprar y vender productos y servicios de forma local. Permite a los usuarios crear anuncios, explorar y buscar artículos, y comunicarse con los vendedores o compradores.
 
+![Cultura Digital](https://www.martechforum.com/wp-content/uploads/2016/10/facebook-marketplace.png)
+Fuente martechforum.com [https://www.martechforum.com/wp-content/uploads/2016/10/facebook-marketplace.png]
+
 ### Facebook Live
 Permite a los usuarios transmitir en vivo videos desde sus dispositivos móviles o computadoras. Los seguidores pueden ver las transmisiones en tiempo real y dejar comentarios.
 
