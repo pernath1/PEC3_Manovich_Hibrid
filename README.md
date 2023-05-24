@@ -67,9 +67,15 @@ Podemos apreciar como todas las funcionalidades mencionadas anteriormente están
 
 ## Re-descubriendo la hibridacion: Facebook
 
-~~~
-prueba
-~~~
+En el año 2003 Mark Zuckerberg creó una web para estar en contacto con sus compañeros, su nombre era Facemash. Desde sus inicios Facebook ha evolucionado mucho, pasó de ser una red social exclusiva de Harvard que se utilizaba para evaluar el atractivo de otros estudiantes y hacer rankings a convertirse en una de las mayores(si no la mayor) redes sociales a nivel mundial.
+
+
+![Cultura Digital](https://www.thepowermba.com/es/wp-content/uploads/2022/10/Evolucio%CC%81n-facebook-980x451.jpg)
+
+Fuente thepowermba.com [https://www.thepowermba.com/es/wp-content/uploads/2022/10/Evolucio%CC%81n-facebook-980x451.jpg]
+
+
+En el proceso de evolución
 
 
 
