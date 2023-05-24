@@ -40,7 +40,7 @@ El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite naveg
 
 
 ![Cultura Digital](https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png)
-<br>
+
 Fuente yasehacerlo.com [https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png]
 
 
@@ -79,6 +79,7 @@ Bajo mi punto de vista <b>Facebook</b> es un caso menso obvio que <b>Amazon</b>,
 Es una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, realizar llamadas de voz y video, compartir archivos y fotos, y participar en chats grupales.
 
 ![Cultura Digital](https://www.inboundcycle.com/hs-fs/hubfs/Facebook-Messenger.png?width=1200&name=Facebook-Messenger.png)
+
 Fuente inboundcycle.com [https://www.inboundcycle.com/hs-fs/hubfs/Facebook-Messenger.png?width=1200&name=Facebook-Messenger.png]
 
 
@@ -92,6 +93,9 @@ Fuente martechforum.com [https://www.martechforum.com/wp-content/uploads/2016/10
 ### Facebook Live
 Permite a los usuarios transmitir en vivo videos desde sus dispositivos móviles o computadoras. Los seguidores pueden ver las transmisiones en tiempo real y dejar comentarios.
 
+![Cultura Digital](https://images.wondershare.com/filmora/article-images/2021/pre-recorded-video-live-on-facebook-1.jpeg)
+
+Fuente images.wondershare.com [https://images.wondershare.com/filmora/article-images/2021/pre-recorded-video-live-on-facebook-1.jpeg]
 
 
 
