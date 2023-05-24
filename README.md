@@ -73,7 +73,7 @@ En el año 2003 <b>Mark Zuckerberg</b> creó una web para estar en contacto con 
 
 Fuente thepowermba.com [https://www.thepowermba.com/es/wp-content/uploads/2022/10/Evolucio%CC%81n-facebook-980x451.jpg]
 
-Bajo mi punto de vista <b>Facebook</b> es un caso menso obvio que <b>Amazon</b>, en cuanto a la hibridación se refiere. No obstante también me parece interesante tener que indagar un poco más para poder apreciar dicho fenómeno. En su caso los ejemplos más claros serína los diferentes módulos que se han añadido a lo largo de los años, aportando diferentes funcoinalidaddes.
+Bajo mi punto de vista <b>Facebook</b> es un caso menso obvio que <b>Amazon</b>, en cuanto a la hibridación se refiere. No obstante también me parece interesante tener que indagar un poco más para poder apreciar dicho fenómeno. En su caso los ejemplos más claros serían los diferentes módulos que se han añadido a lo largo de los años, aportando diferentes funcoinalidaddes.
 
 ### Facebook Messenger
 Es una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, realizar llamadas de voz y video, compartir archivos y fotos, y participar en chats grupales.
