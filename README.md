@@ -23,7 +23,7 @@ Por otro lado tenemos a una red social que no ha parado de evolucionar en los ú
 
 Mi intención es mostrar la hibridación de <b>Manovich</b> a traves de ejemplos lo suficientemente representativos y claros como para presentar la evolución en el software. Además mi intención es analizar esta evolución en todos los planos posibles, no sólo me quiero centrar en e la experiencia de usuario, aún a riesgo de equivocarme, me interesa adentrarme en los engranajes del software para poder apreciar hasta que punto se produce la hibridación. Soy consciente que ahora mismo puede sonar algo confuso, pero confío en que conforme nos adentrémos en el análisis, se pueda discernir de manera clara a que me refiero cuando digo "analizar esta evolción en todos los planos posibles". 
 
-Considero que para llevar más allá el concepto de hibridación en el software y puesto que atañe de manera global a todos los casos que se puedan analizar, me reservaré para el apartado de conclusiones abordar el concepto de hibridación en un plano algo diferente.
+Considero que para llevar más allá el concepto de hibridación en el software y puesto que atañe de manera global a todos los casos que se puedan analizar, me reservaré para el apartado de "Una vuelta de tuerca" abordar el concepto de hibridación en un plano algo diferente.
 
 Sin más dilación, emepezamos.
 
