@@ -130,6 +130,7 @@ Fuente chat.openai.com
 * https://www.thepowermba.com/es/blog/creacion-facebook-la-historia-completa-detras-de-la-red-social#:~:text=Todo%20comenz%C3%B3%20por%20all%C3%A1%20en,f%C3%ADsico%20de%20los%20dem%C3%A1s%20estudiantes.
 * https://www.iebschool.com/blog/auge-y-declive-de-un-imperio-llamado-facebook-redes-sociales/
 * https://marketing4ecommerce.net/historia-de-facebook-nacimiento-y-evolucion-de-la-red-social/
+* https://openai.com/blog/chatgpt
 
 
 ----
