@@ -88,6 +88,28 @@ Permite a los usuarios transmitir en vivo videos desde sus dispositivos móviles
 En el proceso de evolución
 
 ## Re-descubriendo la hibridacion: Una vuelta de tuerca
+Bien, una vez expuestos los dos ejemplos de hibridación no puedo evitar ir un poco más allá y aún a riesgo de equivocarme, crear mi propia vía de análisis y experimentación a la hora de identificar casos que siguen las pautas de Manovich.
+
+Cojamos como ejemplo Amazon, estamos de acuerdo que en la plataforma se puede identificar la <b>hibridación</b>, pero mi opinión es que solamente estamos analizando una cara de la moneda. 
+
+Este tipo de plataformas conllevan un gran trabajo en programación(entre otros) para llevarlas a cabo. Dicha programación está englobada en el software y eso la hace estar sujeta a una mirada con las gafas de Manovich. Cuando se programa una plataforma de este estilo se emplean múltiples lenguajes que interactuan entre ellos e intercanvian información mediante "empaquetados" tipo XML o JSON por ejemplo.¿Sería correcto pensar que se produce una hibridación a nivel codigo fuente? pues no sólo lo he pensado sino que me he tirado a la piscina y lo he denominado <b>Hibiridación algorítmica</b>
+
+Si preguntamos a chatGPT sobre los lenguajes empleados en la web de <b>Amazon</b> nos contesta lo siguiente:
+
+~~~
+La web de Amazon está desarrollada utilizando varios lenguajes de programación y tecnologías, ya que es una plataforma compleja con diferentes componentes. A continuación, mencionaré algunos de los lenguajes y tecnologías comunes que se utilizan en el desarrollo de la web de Amazon:
+
+Java: Amazon utiliza ampliamente Java para el desarrollo de su backend y servicios web. Java es un lenguaje de programación versátil y escalable, que proporciona una base sólida para la construcción de aplicaciones empresariales.
+
+JavaScript: JavaScript se utiliza extensivamente en el frontend de la web de Amazon para crear interactividad y dinamismo en las páginas. Frameworks y bibliotecas populares de JavaScript, como React, pueden ser utilizados para construir componentes y manejar la lógica del frontend.
+
+HTML/CSS: HTML (HyperText Markup Language) y CSS (Cascading Style Sheets) son los lenguajes fundamentales utilizados para estructurar y diseñar las páginas web. Estos lenguajes se utilizan para definir la estructura y el estilo visual de los elementos en la interfaz de usuario de Amazon.
+
+Python: Python es otro lenguaje de programación utilizado en el desarrollo de la web de Amazon, particularmente en áreas como la gestión de datos, el análisis y la ciencia de datos. Python es conocido por su legibilidad y su amplia gama de bibliotecas y frameworks para diferentes aplicaciones.
+
+Ruby: Amazon también ha utilizado Ruby en algunos componentes de su infraestructura, como en su servicio de computación en la nube, Amazon EC2. Ruby es conocido por su enfoque en la simplicidad y la productividad del desarrollador.
+~~~
+
 
 ### Referencias y Bibliografía
 
