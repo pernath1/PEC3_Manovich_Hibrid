@@ -133,6 +133,9 @@ Como se puede apreciar en la respuesta de chatGPT, los lenguajes empleados en la
 * https://www.iebschool.com/blog/auge-y-declive-de-un-imperio-llamado-facebook-redes-sociales/
 * https://marketing4ecommerce.net/historia-de-facebook-nacimiento-y-evolucion-de-la-red-social/
 * https://openai.com/blog/chatgpt
+* http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* https://www.arimetrics.com/glosario-digital/amazon
+* https://marketing4ecommerce.net/historia-de-amazon-asi-nacio-el-lider-del-ecommerce/
 
 
 ----
