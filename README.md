@@ -92,7 +92,7 @@ Bien, una vez expuestos los dos ejemplos de hibridación no puedo evitar ir un p
 
 Cojamos como ejemplo Amazon, estamos de acuerdo que en la plataforma se puede identificar la <b>hibridación</b>, pero mi opinión es que solamente estamos analizando una cara de la moneda. 
 
-Este tipo de plataformas conllevan un gran trabajo en programación(entre otros) para llevarlas a cabo. Dicha programación está englobada en el software y eso la hace estar sujeta a una mirada con las gafas de Manovich. Cuando se programa una plataforma de este estilo se emplean múltiples lenguajes que interactuan entre ellos e intercanvian información mediante "empaquetados" tipo XML o JSON por ejemplo.¿Sería correcto pensar que se produce una hibridación a nivel codigo fuente? pues no sólo lo he pensado sino que me he tirado a la piscina y lo he denominado <b>Hibiridación algorítmica</b>
+Este tipo de plataformas conllevan un gran trabajo en programación(entre otros) para llevarlas a cabo. Dicha programación está englobada en el software y eso la hace estar sujeta a una mirada con las gafas de Manovich. Cuando se programa una plataforma de este estilo se emplean múltiples lenguajes que interactuan entre ellos e intercanvian información mediante "empaquetados" tipo XML o JSON por ejemplo.¿Sería correcto pensar que se produce una hibridación a nivel código fuente? pues no sólo lo he pensado sino que me he tirado a la piscina y lo he denominado <b>Hibiridación algorítmica</b>
 
 Si preguntamos a chatGPT sobre los lenguajes empleados en la web de <b>Amazon</b> nos contesta lo siguiente:
 
@@ -122,6 +122,8 @@ Amazon EC2. Ruby es conocido por su enfoque en la simplicidad y la productividad
 ~~~
 
 Fuente chat.openai.com
+
+Como se puede apreciar en la respuesta de chatGPT, los lenguajes empleados en la plataformade Amazon son muchos y es dificil no pensar en hibridación. Por supuesto faltaría el tema de conexión con base de datos y como se extrae la información mediante sentencias SQL, pero creo que la idea se ha entendido y no es necesario analizar al detalle el desarrollo del portal.
 
 
 ### Referencias y Bibliografía
