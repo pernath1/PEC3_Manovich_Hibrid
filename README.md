@@ -78,6 +78,10 @@ Bajo mi punto de vista <b>Facebook</b> es un caso menso obvio que <b>Amazon</b>,
 ### Facebook Messenger
 Es una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, realizar llamadas de voz y video, compartir archivos y fotos, y participar en chats grupales.
 
+![Cultura Digital](https://www.inboundcycle.com/hs-fs/hubfs/Facebook-Messenger.png?width=1200&name=Facebook-Messenger.png)
+Fuente inboundcycle.com [https://www.inboundcycle.com/hs-fs/hubfs/Facebook-Messenger.png?width=1200&name=Facebook-Messenger.png]
+
+
 ### Facebook Marketplace
 Es una plataforma en la que los usuarios pueden comprar y vender productos y servicios de forma local. Permite a los usuarios crear anuncios, explorar y buscar artículos, y comunicarse con los vendedores o compradores.
 
