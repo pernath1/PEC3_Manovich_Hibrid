@@ -69,6 +69,15 @@ Podemos apreciar como todas las funcionalidades mencionadas anteriormente están
 
 En el año 2003 <b>Mark Zuckerberg</b> creó una web para estar en contacto con sus compañeros, su nombre era <b>Facemash</b>. Desde sus inicios <b>Facebook</b> ha evolucionado mucho, pasó de ser una red social exclusiva de Harvard que se utilizaba para evaluar el atractivo de otros estudiantes y hacer rankings a convertirse en una de las mayores(si no la mayor) redes sociales a nivel mundial.
 
+### Facebook Messenger
+Es una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, realizar llamadas de voz y video, compartir archivos y fotos, y participar en chats grupales.
+
+### Facebook Marketplace
+Es una plataforma en la que los usuarios pueden comprar y vender productos y servicios de forma local. Permite a los usuarios crear anuncios, explorar y buscar artículos, y comunicarse con los vendedores o compradores.
+
+### Facebook Live
+Permite a los usuarios transmitir en vivo videos desde sus dispositivos móviles o computadoras. Los seguidores pueden ver las transmisiones en tiempo real y dejar comentarios.
+
 
 ![Cultura Digital](https://www.thepowermba.com/es/wp-content/uploads/2022/10/Evolucio%CC%81n-facebook-980x451.jpg)
 
