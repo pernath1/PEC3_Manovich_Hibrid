@@ -96,6 +96,7 @@ Este tipo de plataformas conllevan un gran trabajo en programación(entre otros)
 
 Si preguntamos a chatGPT sobre los lenguajes empleados en la web de <b>Amazon</b> nos contesta lo siguiente:
 
+Pregunta usuario: En que lenguaje se ha programado la web de amazon?
 ~~~
 La web de Amazon está desarrollada utilizando varios lenguajes de programación y tecnologías, ya que es una plataforma compleja 
 con diferentes componentes. A continuación, mencionaré algunos de los lenguajes y tecnologías comunes que se utilizan en el desarrollo de la web de Amazon:
@@ -119,6 +120,8 @@ Python es conocido por su legibilidad y su amplia gama de bibliotecas y framewor
 Ruby: Amazon también ha utilizado Ruby en algunos componentes de su infraestructura, como en su servicio de computación en la nube, 
 Amazon EC2. Ruby es conocido por su enfoque en la simplicidad y la productividad del desarrollador.
 ~~~
+
+Fuente chat.openai.com
 
 
 ### Referencias y Bibliografía
