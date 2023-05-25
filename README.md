@@ -17,11 +17,11 @@ Fuente p1.pxfuel.com: [https://p1.pxfuel.com/preview/817/193/279/eye-information
 Para esta práctica he escogido el portal de ecommerce <b>Amazon</b> y la red social de <b>Facebook</b>, creo que ambos casos cumplen con creces con las características de la hibridación de Manovich. 
 
 
-Por un lado tenemos a Amazon que es un portal de ecommerce que ha sabido implementar toda una gama de servicios que permiten al usuario interactuar de manera directa con el vendedor  a través de diferentes canales.
+Por un lado, tenemos a Amazon, que es un portal de ecommerce que ha sabido implementar toda una gama de servicios que permiten al usuario interactuar de manera directa con el vendedor  a través de diferentes canales.
 
-Por otro lado tenemos a una red social que no ha parado de evolucionar en los últimos años y que brinda a sus usuarios la posiblidad de ir más allá en el plano de la comunicación entre ellos
+Por otro lado, tenemos a una red social que no ha parado de evolucionar en los últimos años y que brinda a sus usuarios la posibilidad de ir más allá en el plano de la comunicación entre ellos
 
-Mi intención es mostrar la hibridación de <b>Manovich</b> a traves de ejemplos lo suficientemente representativos y claros como para presentar la evolución en el software. Además mi intención es analizar esta evolución en todos los planos posibles, no sólo me quiero centrar en e la experiencia de usuario, aún a riesgo de equivocarme, me interesa adentrarme en los engranajes del software para poder apreciar hasta que punto se produce la hibridación. Soy consciente que ahora mismo puede sonar algo confuso, pero confío en que conforme nos adentrémos en el análisis, se pueda discernir de manera clara a que me refiero cuando digo "analizar esta evolción en todos los planos posibles". 
+Mi intención es mostrar la hibridación de <b>Manovich</b> a traves de ejemplos lo suficientemente representativos y claros como para presentar la evolución en el software. Además, mi intención es analizar esta evolución en todos los planos posibles, no solo me quiero centrar en la experiencia de usuario, aun a riesgo de equivocarme, me interesa adentrarme en los engranajes del software para poder apreciar hasta qué punto se produce la hibridación. Soy consciente que ahora mismo puede sonar algo confuso, pero confío en que conforme nos adentremos en el análisis, se pueda discernir de manera clara a que me refiero cuando digo "analizar esta evolución en todos los planos posibles". 
 
 Considero que para llevar más allá el concepto de hibridación en el software y puesto que atañe de manera global a todos los casos que se puedan analizar, me reservaré para el apartado de "Una vuelta de tuerca" abordar el concepto de hibridación en un plano algo diferente.
 
