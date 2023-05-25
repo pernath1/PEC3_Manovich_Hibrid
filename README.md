@@ -97,9 +97,7 @@ Permite a los usuarios transmitir en vivo videos desde sus dispositivos móviles
 
 Fuente images.wondershare.com [https://images.wondershare.com/filmora/article-images/2021/pre-recorded-video-live-on-facebook-1.jpeg]
 
-
-
-En el proceso de evolución
+Bajo mi punto de vista, al añadir los diferentes módulos a la red social, se produce una remediación en la manera de interactuar con otros usuarios y en el proceso se puede apreciar la hibridación del medio.
 
 ## Re-descubriendo la hibridacion: Una vuelta de tuerca
 Bien, una vez expuestos los dos ejemplos de hibridación no puedo evitar ir un poco más allá y aún a riesgo de equivocarme, crear mi propia vía de análisis y experimentación a la hora de identificar casos que siguen las pautas de Manovich.
