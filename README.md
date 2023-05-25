@@ -73,7 +73,7 @@ En el año 2003 <b>Mark Zuckerberg</b> creó una web para estar en contacto con 
 
 Fuente thepowermba.com [https://www.thepowermba.com/es/wp-content/uploads/2022/10/Evolucio%CC%81n-facebook-980x451.jpg]
 
-Bajo mi punto de vista <b>Facebook</b> es un caso menso obvio que <b>Amazon</b>, en cuanto a la hibridación se refiere. No obstante, también me parece interesante tener que indagar un poco más para poder apreciar dicho fenómeno. En su caso los ejemplos más claros serían los diferentes módulos que se han añadido a lo largo de los años, aportando diferentes funcoinalidaddes.
+Bajo mi punto de vista, <b>Facebook</b> es un caso menos obvio que <b>Amazon</b>, en cuanto a la hibridación se refiere. No obstante, también me parece interesante tener que indagar un poco más para poder apreciar dicho fenómeno. En su caso, los ejemplos más claros serían los diferentes módulos que se han añadido a lo largo de los años, aportando diferentes funcionalidaddes.
 
 ### Facebook Messenger
 Es una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, realizar llamadas de voz y video, compartir archivos y fotos, y participar en chats grupales.
@@ -100,11 +100,11 @@ Fuente images.wondershare.com [https://images.wondershare.com/filmora/article-im
 Bajo mi punto de vista, al añadir los diferentes módulos a la red social, se produce una remediación en la manera de interactuar con otros usuarios y en el proceso se puede apreciar la hibridación del medio.
 
 ## Re-descubriendo la hibridacion: Una vuelta de tuerca
-Bien, una vez expuestos los dos ejemplos de hibridación no puedo evitar ir un poco más allá y aún a riesgo de equivocarme, crear mi propia vía de análisis y experimentación a la hora de identificar casos que siguen las pautas de Manovich.
+Bien, una vez expuestos los dos ejemplos de hibridación, no puedo evitar ir un poco más allá y aun a riesgo de equivocarme, crear mi propia vía de análisis y experimentación a la hora de identificar casos que siguen las pautas de Manovich.
 
 Cojamos como ejemplo Amazon, estamos de acuerdo que en la plataforma se puede identificar la <b>hibridación</b>, pero mi opinión es que solamente estamos analizando una cara de la moneda. 
 
-Este tipo de plataformas conllevan un gran trabajo en programación(entre otros) para llevarlas a cabo. Dicha programación está englobada en el software y eso la hace estar sujeta a una mirada con las gafas de Manovich. Cuando se programa una plataforma de este estilo se emplean múltiples lenguajes que interactuan entre ellos e intercanvian información mediante "empaquetados" tipo XML o JSON por ejemplo.¿Sería correcto pensar que se produce una hibridación a nivel código fuente? pues no sólo lo he pensado sino que me he tirado a la piscina y lo he denominado <b>Hibiridación algorítmica</b>
+Este tipo de plataformas conllevan un gran trabajo en programación(entre otros) para llevarlas a cabo. Dicha programación está englobada en el software y eso la hace estar sujeta a una mirada con las gafas de Manovich. Cuando se programa una plataforma de este estilo se emplean múltiples lenguajes que interactúan entre ellos e intercambian información mediante "empaquetados" tipo XML o JSON por ejemplo.¿Sería correcto pensar que se produce una hibridación a nivel código fuente? pues no solo lo he pensado, sino que me he tirado a la piscina y lo he denominado <b>Hibiridación algorítmica</b>
 
 Si preguntamos a chatGPT sobre los lenguajes empleados en la web de <b>Amazon</b> nos contesta lo siguiente:
 
