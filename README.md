@@ -30,13 +30,13 @@ Sin más dilación, emepezamos.
 
 ## Re-descubriendo la hibridacion: Amazon
 
-Debido a la gran evolución que ha tenido Amazon, podríamos decir que es una remediación de si mismo. Lo que empezó siendo una remediación de una tienda de libros se ha acabdo convirtiendo en todo un monstruo de la hibridación.
+Debido a la gran evolución que ha tenido Amazon, podríamos decir que es una remediación de si mismo. Lo que empezó siendo una remediación de una tienda de libros se ha acabado convirtiendo en todo un monstruo de la hibridación.
 Si nos paramos a observar el portal de ecommerce con las gafas de Manovich, podremos apreciar como la hibridación se da en <b>Amazon</b> de manera clara. No pretendo desgranar todos los casos que se produce en la plataforma, pues considero que sería una labor titánica que excedería los límites de esta práctica, me limitaré a señalar casos concretos en la interfaz de usuario para poder hacer patente dicha evolución.
 
 ### Interfaz de usuario
 Uno de los aspectos más destacables de <b>Amazon</b> es sin duda su interfaz de usuario y el amplio abanico de posibilidades que brinda para interactuar, bien sea con la plataforma, o con los diferentes proveedores que venden a través de ella.
 
-El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite navegar por las diferentes secciones y afinar los resultados aplicando disintos filtros. Todo ello se puede llevar a cabo gracias a consultas recurrentes a bases de datos y a la indexación de todo el stock, tanto el del propio Amazon, como el de los diferentes vendedores que utilizan la plataforma para ofertar su productos. 
+El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite navegar por las diferentes secciones y afinar los resultados aplicando distintos filtros. Todo ello se puede llevar a cabo gracias a consultas recurrentes, a bases de datos y a la indexación de todo el stock, tanto el del propio Amazon, como el de los diferentes vendedores que utilizan la plataforma para ofertar sus productos. 
 
 
 ![Cultura Digital](https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png)
@@ -44,7 +44,7 @@ El usuario dispone de un potente <b>motor de búsqueda</b> que nos permite naveg
 Fuente yasehacerlo.com [https://yasehacerlo.com/wp-content/uploads/2016/05/buscar-un-producto-en-Amazon.png]
 
 
-Una vez el usuario selecciona un producto, accedería a lo que llamariamos <b>ficha del producto</b>. Aquí nos encontramos con la información detallada del producto, eso incluye fotografías en alta resolución , animaciones 3D o vídeos de alta resolución. En esta página también disponemos de la opinión de otros clientes sobre el producto en cuestión, una sección que se llama "preguntas y respuestas" y las diferentes opciones de compra.
+Una vez el usuario selecciona un producto, accedería a lo que llamaríamos <b>ficha del producto</b>. Aquí nos encontramos con la información detallada del producto, eso incluye fotografías en alta resolución , animaciones 3D o vídeos de alta resolución. En esta página también disponemos de la opinión de otros clientes sobre el producto en cuestión, una sección que se llama "preguntas y respuestas" y las diferentes opciones de compra.
 
 ![Cultura Digital](https://escribodeviajes.com/wp-content/uploads/2022/02/1-regalos-viajes-14-de-febrero.jpg)
 
@@ -55,13 +55,13 @@ Se puede crear y gestionar una listas de deseos, lo que permite guardar producto
 
 También debemos tener en cuenta que Amazon almacena nuestra <b>ubicación</b>, con lo cual, ofrece una serie de servicios, como son la "compra en un solo clic", lo que agiliza mucho el proceso de compra.
 
-Otra funcionalidad de Amazon es el uso que hace de nuestro <b>historial de compra</b> y de navegación, para proponernos una serie de productos personalizados basándose en nuestros gustos. Es como si tuviera una red interna de admobs (anuncios pagados de google) para su propios usuarios. Por supuesto dichos historiales se pueden administrar por parte del usuario, ya sea para acceder a productos comprados/buscados anteriormente o borrar/editar información.
+Otra funcionalidad de Amazon es el uso que hace de nuestro <b>historial de compra</b> y de navegación, para proponernos una serie de productos personalizados basándose en nuestros gustos. Es como si tuviera una red interna de admobs (anuncios pagados de google) para sus propios usuarios. Por supuesto, dichos historiales se pueden administrar por parte del usuario, ya sea para acceder a productos comprados/buscados anteriormente o borrar/editar información.
 
 ![Cultura Digital](https://www.vichaunter.org/wp-content/uploads/desactivar-historial-amazon.jpg)
 
 Fuente vichaunter.org [https://www.vichaunter.org/wp-content/uploads/desactivar-historial-amazon.jpg]
 
-Podemos apreciar como todas las funcionalidades mencionadas anteriormente están perfectamente integradas en una gran plataforma con hibridación por doquier, como en los detalles de un producto podemos visualizar un video en hd o leer opiniones de otros usuarios que adquirieron anteriormente el producto. No ovlidemos que <b>Amazon</b> empezó siendo una simple web donde se vendían libros (Cadabra). Su evolución a lo largo de los úlimos años ha sido vertiginosa. Por supuesto soy consciente de que me he dejado en el tintero muchos otros servicios que ofrece la plataforma como son su oferta de canales de tv mediante la inscripcion de <b>Amazon Prime</b>, no obstante, considero que con los casos expuestos anteriormente nos podemos hacer una idea de como la <b>hibridación de medios</b> impregna toda la plataforma.
+Podemos apreciar como todas las funcionalidades mencionadas anteriormente están perfectamente integradas en una gran plataforma con hibridación por doquier, como en los detalles de un producto podemos visualizar un video en hd o leer opiniones de otros usuarios que adquirieron anteriormente el producto. No olvidemos que <b>Amazon</b> empezó siendo una simple web donde se vendían libros (Cadabra). Su evolución a lo largo de los últimos años ha sido vertiginosa. Por supuesto, soy consciente de que me he dejado en el tintero muchos otros servicios que ofrece la plataforma, como son su oferta de canales de tv mediante la inscripción de <b>Amazon Prime</b>, no obstante, considero que con los casos expuestos anteriormente nos podemos hacer una idea de como la <b>hibridación de medios</b> impregna toda la plataforma.
 
 
 
